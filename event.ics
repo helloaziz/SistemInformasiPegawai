@@ -1,0 +1,15 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:DataDev is one of GDG Semarang's programs that wrapped in a wo
+	rkshop and discusses about Data Science.
+	Virtual event URL: https://gdg.community.dev/j/z37g9mgbe9zka/
+DTSTART:20210703T013000Z
+DTEND:20210710T050000Z
+URL:https://gdg.community.dev/j/z37g9mgbe9zka/
+SUMMARY:DataDev GDG Semarang
+END:VEVENT
+END:VCALENDAR
+UID:rzrjgbnue4
+DTSTAMP:20210702T125156Z
